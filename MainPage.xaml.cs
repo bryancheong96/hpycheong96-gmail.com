@@ -1,17 +1,27 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Xamarin.Forms;
+using System.Runtime.InteropServices.WindowsRuntime;
+using Windows.Foundation;
+using Windows.Foundation.Collections;
+using Windows.UI.Xaml;
+using Windows.UI.Xaml.Controls;
+using Windows.UI.Xaml.Controls.Primitives;
+using Windows.UI.Xaml.Data;
+using Windows.UI.Xaml.Input;
+using Windows.UI.Xaml.Media;
+using Windows.UI.Xaml.Navigation;
 
-namespace TemPloy
+namespace TemPloy.UWP
 {
-	public partial class MainPage : ContentPage
+	public sealed partial class MainPage
 	{
 		public MainPage()
 		{
-			InitializeComponent();
+			this.InitializeComponent();
+
+			LoadApplication(new TemPloy.App());
 		}
 	}
 }
