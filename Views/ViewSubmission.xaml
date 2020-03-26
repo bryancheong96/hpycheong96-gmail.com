@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TemPloy.Views.ViewSubmission">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Refresh" Icon="ic_autorenew.png" Clicked="OnRefresh" />
+    </ContentPage.ToolbarItems>
+    <Grid>
+        <ListView x:Name="SubmissionView" ItemTapped="ViewProfile" Header="Applicant List">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Username}" Detail="{Binding Proposal}">
+                        <TextCell.ContextActions>
+                            <MenuItem Clicked="AcceptJob"
+                                CommandParameter="{Binding}"
+                                Text="ACCEPT"  IsDestructive="True"/>
+                        </TextCell.ContextActions>
+                    </TextCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <!-- Challenge exercise - add Activity Indicator -->
+
+    </Grid>
+</ContentPage>

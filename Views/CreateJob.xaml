@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TemPloy.Views.CreateJob">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Create Job" FontSize="Large" HorizontalTextAlignment="Center"/>
+            <Label Text="Title" />
+            <Entry x:Name="title" Placeholder="Job Title" />
+            <Label Text="Description" />
+            <Editor x:Name="description" HeightRequest="200"/>
+            <Label Text="Salary Type" />
+            <Picker x:Name="salarytype" Title="Salary Type">
+                <Picker.Items>
+                    <x:String>per day</x:String>
+                    <x:String>per hour</x:String>
+                </Picker.Items>
+                <Picker.SelectedIndex>0</Picker.SelectedIndex>
+            </Picker>
+            <Label Text="Salary" />
+            <Entry x:Name="salary" Placeholder="Salary" />
+            <Button x:Name="btn_create" Text="Create" Clicked="CreateJobStatement"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

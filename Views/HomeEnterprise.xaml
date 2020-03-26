@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:infrastructure="clr-namespace:TemPloy.Infrastructure;assembly=TemPloy"
+             x:Class="TemPloy.Views.HomeEnterprise">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Refresh" Icon="ic_autorenew.png" Clicked="OnRefresh" />
+        <ToolbarItem Text="Search" Clicked="OnSearch" />
+        <ToolbarItem Text="Create" Icon="ic_action_new.png" Clicked="OnCreate" Order="Secondary"/>
+        <ToolbarItem Text="Profile" Clicked="ViewProfile"  Order="Secondary"/>
+        <ToolbarItem Text="Logout" Order="Secondary"/>
+    </ContentPage.ToolbarItems>
+    <ScrollView>
+
+        <Grid>
+            <ListView x:Name="HomeView" ItemTapped="JobDetail">
+                <ListView.Header>
+                    <StackLayout>
+                        <SearchBar x:Name="searchBar" Placeholder="Search" VerticalOptions="Start" IsVisible="False"  />
+                        <Label Text="My Job" FontSize="Large" HorizontalTextAlignment="Center" />
+                    </StackLayout>
+                </ListView.Header>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding Title}" Detail="{Binding Description}">
+                            <TextCell.ContextActions>
+                                <MenuItem Clicked="OnApplicant"
+                                    CommandParameter="{Binding}"
+                                    Text="View Applicant" IsDestructive="True" />
+                            </TextCell.ContextActions>
+                        </TextCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+        <!-- Challenge exercise - add Activity Indicator -->
+
+        </Grid>
+    </ScrollView>
+
+</ContentPage>

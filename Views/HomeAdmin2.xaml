@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TemPloy.Views.HomeAdmin2">
+    <ContentPage.ToolbarItems >
+        <ToolbarItem Text="Search" Clicked="OnSearch" />
+        <ToolbarItem x:Name="SwitchList" Clicked="EntList" Order="Secondary"/>
+        <ToolbarItem Text="Logout" Order="Secondary"/>
+    </ContentPage.ToolbarItems>
+    <ScrollView>
+        <Grid >
+            <ListView x:Name="HomeView" ItemTapped="ViewProfile">
+                <ListView.Header>
+                    <StackLayout>
+                        <SearchBar x:Name="searchBar" Placeholder="Search" VerticalOptions="Start" IsVisible="False"  />
+                        <Label x:Name="Header" FontSize="Large" HorizontalTextAlignment="Center"/>
+                    </StackLayout>
+                </ListView.Header>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding Name}" Detail="{Binding Email}">
+                        </TextCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <!-- Challenge exercise - add Activity Indicator -->
+
+        </Grid>
+    </ScrollView>
+</ContentPage>

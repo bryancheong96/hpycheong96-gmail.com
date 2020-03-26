@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:infrastructure="clr-namespace:TemPloy.Infrastructure;assembly=TemPloy"
+             x:Class="TemPloy.Views.HomeJobSeeker"
+             >
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Refresh" Icon="ic_autorenew.png" Clicked="OnRefresh" />
+        <ToolbarItem Text="Search" Clicked="OnSearch" />
+        <ToolbarItem Text="Map" Clicked="OnMap" Order="Secondary"/>
+        <ToolbarItem Text="View" Clicked="ViewApplyJob" Order="Secondary"/>
+        <ToolbarItem Text="Edit Profile" Clicked="ViewProfile" Order="Secondary" />
+        <ToolbarItem Text="Logout" Order="Secondary"/>
+    </ContentPage.ToolbarItems>
+
+    <Grid>
+        <ListView x:Name="HomeView" ItemTapped="JobDetail">
+            <ListView.Header>
+                <StackLayout>
+                    <SearchBar x:Name="searchBar" Placeholder="Search" VerticalOptions="StartAndExpand" IsVisible="False"  />
+                    <Label Text="Job List" FontSize="Large" HorizontalTextAlignment="Center" />
+                </StackLayout>
+            </ListView.Header>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Title}" Detail="{Binding Description}" Height="150" >
+                    </TextCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <!-- Challenge exercise - add Activity Indicator -->
+
+    </Grid>
+</ContentPage>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TemPloy.Views.RegisterEnterprise">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <Label Text="Enterprise Registration" FontSize="Large" HorizontalTextAlignment="Center"/>
+                <Image x:Name="image" WidthRequest="180" HeightRequest="180"/>
+                <Button x:Name="pickphoto" Text="Profile Picture" HorizontalOptions="Center" WidthRequest="200"/>
+                <Label Text="Company Name" />
+                <Entry x:Name="companyname" Placeholder="Company Name" />
+                <Label Text="Company Registered ID" />
+                <Entry x:Name="companyid" Placeholder="Company ID" />
+                <Label Text="Company Address" />
+                <Entry x:Name="companyaddress" Placeholder="Address" />
+                <Label Text="Company Contact Number" />
+                <Entry x:Name="companycontact" Placeholder="Contact Number" />
+                <Label Text="Username" />
+                <Entry x:Name="username" Placeholder="Username" />
+                <Label Text="Password" />
+                <Entry x:Name="password" Placeholder="Password" />
+                <Label Text="Email" />
+                <Entry x:Name="email" Placeholder="Email" />
+                <Button x:Name="btn_register" Text="Register" Clicked="SubmitRegisterEnterprise"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
