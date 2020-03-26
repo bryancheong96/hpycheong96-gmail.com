@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{45161D68-34D4-4B2A-8163-65E406432BE0}|Default">
+  <MonoDevelop.Ide.ItemProperties.TemPloy.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7F557C4E-374E-4387-9AE0-E698C7D1422C" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TemPloy/TemPloy/Views/MapPage.cs">
+    <Files>
+      <File FileName="TemPloy/TemPloy/Views/MapPage.cs" Line="33" Column="6" />
+      <File FileName="TemPloy/TemPloy/Views/LoginPage.cs" Line="245" Column="49" />
+      <File FileName="TemPloy/TemPloy/Views/RegisterEnterprise.xaml.cs" Line="186" Column="9" />
+      <File FileName="TemPloy/TemPloy/Views/RegisterJobSeeker.xaml.cs" Line="178" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TemPloy.Android PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
