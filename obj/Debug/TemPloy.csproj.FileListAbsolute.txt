@@ -1,0 +1,506 @@
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Windows.Forms.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/TemPloy.dll.config
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/TemPloy.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/TemPloy.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/Mono.Android.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/Newtonsoft.Json.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Data.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.Extensions.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.Primitives.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Core.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Platform.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Transactions.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Numerics.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Configuration.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.EnterpriseServices.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Security.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.DirectoryServices.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Runtime.Remoting.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Web.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Runtime.Serialization.Formatters.Soap.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Drawing.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Web.RegularExpressions.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Design.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Web.ApplicationServices.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.ComponentModel.DataAnnotations.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.DirectoryServices.Protocols.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Runtime.Caching.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.ServiceProcess.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Web.Services.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/Microsoft.Build.Utilities.v4.0.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/Microsoft.Build.Framework.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/Microsoft.Build.Tasks.v4.0.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Data.OracleClient.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/Accessibility.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Drawing.Design.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Configuration.Install.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Xaml.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Deployment.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/Mono.Android.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/Mono.Android.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/Newtonsoft.Json.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Data.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.Extensions.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.Primitives.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Core.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Core.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Platform.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Xaml.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Transactions.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Numerics.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Configuration.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.EnterpriseServices.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Security.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.DirectoryServices.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Runtime.Remoting.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Web.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Runtime.Serialization.Formatters.Soap.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Drawing.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Web.RegularExpressions.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Design.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Web.ApplicationServices.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.ComponentModel.DataAnnotations.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.DirectoryServices.Protocols.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Runtime.Caching.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.ServiceProcess.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Web.Services.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/Microsoft.Build.Utilities.v4.0.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/Microsoft.Build.Framework.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/Microsoft.Build.Tasks.v4.0.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Windows.Forms.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Data.OracleClient.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/Accessibility.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Drawing.Design.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Configuration.Install.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Xaml.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Deployment.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/System.EnterpriseServices.Wrapper.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.csproj.App.config
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.MainPage.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.App.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.HomeEnterprise.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.RegisterJobSeeker.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.RegisterEnterprise.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.CreateJob.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.HomeJobSeeker.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.ViewSubmission.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.ViewApplyJob.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.csprojResolveAssemblyReference.cache
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.HomeAdmin.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/bin/Debug/CarouselView.FormsPlugin.Abstractions.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.HomeAdmin2.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.csproj.App.config
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.csprojResolveAssemblyReference.cache
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.MainPage.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.App.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.HomeEnterprise.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.RegisterJobSeeker.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.RegisterEnterprise.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.CreateJob.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.HomeJobSeeker.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.ViewSubmission.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.ViewApplyJob.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.HomeAdmin.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.HomeAdmin2.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/bin/Debug/TemPloy.dll.config
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/bin/Debug/TemPloy.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/bin/Debug/TemPloy.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/bin/Debug/CarouselView.FormsPlugin.Abstractions.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/bin/Debug/Newtonsoft.Json.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.Extensions.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.Primitives.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Core.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Maps.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Platform.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/bin/Debug/Newtonsoft.Json.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.Extensions.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.Primitives.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Core.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Core.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Maps.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Platform.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloy1/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Xaml.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.csproj.App.config
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.csprojResolveAssemblyReference.cache
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.MainPage.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.App.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.HomeEnterprise.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.RegisterJobSeeker.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.RegisterEnterprise.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.CreateJob.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.HomeJobSeeker.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.ViewSubmission.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.ViewApplyJob.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.HomeAdmin.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.HomeAdmin2.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/bin/Debug/TemPloy.dll.config
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/bin/Debug/TemPloy.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/bin/Debug/TemPloy.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/bin/Debug/CarouselView.FormsPlugin.Abstractions.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/bin/Debug/Newtonsoft.Json.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.Extensions.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.Primitives.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Core.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Maps.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Platform.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/bin/Debug/Newtonsoft.Json.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.Extensions.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.Primitives.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Core.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Core.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Maps.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Platform.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv2/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Xaml.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/TemPloy.dll.config
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/TemPloy.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/TemPloy.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/CarouselView.FormsPlugin.Abstractions.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/FFImageLoading.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/FFImageLoading.Forms.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/FFImageLoading.Platform.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Newtonsoft.Json.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Geolocator.Abstractions.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Geolocator.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Media.Abstractions.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Media.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Messaging.Abstractions.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Messaging.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Share.Abstractions.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Share.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Data.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.Extensions.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.Primitives.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Core.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Maps.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Platform.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Transactions.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Numerics.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Configuration.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.EnterpriseServices.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Security.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.DirectoryServices.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Runtime.Remoting.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Web.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Runtime.Serialization.Formatters.Soap.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Drawing.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Web.RegularExpressions.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Design.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Web.ApplicationServices.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.ComponentModel.DataAnnotations.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.DirectoryServices.Protocols.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Runtime.Caching.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.ServiceProcess.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Web.Services.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Microsoft.Build.Utilities.v4.0.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Microsoft.Build.Framework.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Microsoft.Build.Tasks.v4.0.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Windows.Forms.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Data.OracleClient.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Accessibility.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Drawing.Design.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Configuration.Install.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Xaml.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Deployment.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/FFImageLoading.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/FFImageLoading.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/FFImageLoading.Forms.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/FFImageLoading.Forms.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/FFImageLoading.Platform.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Newtonsoft.Json.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Geolocator.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Geolocator.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Geolocator.Abstractions.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Media.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Media.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Media.Abstractions.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Media.Abstractions.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Messaging.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Messaging.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Messaging.Abstractions.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Messaging.Abstractions.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Share.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Share.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Share.Abstractions.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Share.Abstractions.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Data.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.Extensions.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.Primitives.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Core.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Core.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Maps.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Platform.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Xaml.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Transactions.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Numerics.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Configuration.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.EnterpriseServices.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Security.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.DirectoryServices.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Runtime.Remoting.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Web.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Runtime.Serialization.Formatters.Soap.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Drawing.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Web.RegularExpressions.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Design.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Web.ApplicationServices.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.ComponentModel.DataAnnotations.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.DirectoryServices.Protocols.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Runtime.Caching.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.ServiceProcess.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Web.Services.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Microsoft.Build.Utilities.v4.0.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Microsoft.Build.Framework.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Microsoft.Build.Tasks.v4.0.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Windows.Forms.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Data.OracleClient.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/Accessibility.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Drawing.Design.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Configuration.Install.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Xaml.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.Deployment.xml
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/bin/Debug/System.EnterpriseServices.Wrapper.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.csproj.App.config
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.csprojResolveAssemblyReference.cache
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.MainPage.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.App.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.HomeEnterprise.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.RegisterJobSeeker.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.RegisterEnterprise.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.CreateJob.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.HomeJobSeeker.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.ViewSubmission.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.ViewApplyJob.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.HomeAdmin.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.HomeAdmin2.xaml.g.cs
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.dll
+C:/Users/Bryan Cheong/Downloads/Degree Lv3/FYP/Sem2/TemPloyv3/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.pdb
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/TemPloy.dll.config
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/TemPloy.dll
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/TemPloy.pdb
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/CarouselView.FormsPlugin.Abstractions.dll
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/FFImageLoading.dll
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/FFImageLoading.Forms.dll
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/FFImageLoading.Platform.dll
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Newtonsoft.Json.dll
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Geolocator.Abstractions.dll
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Geolocator.dll
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Media.Abstractions.dll
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Media.dll
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Messaging.Abstractions.dll
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Messaging.dll
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Share.Abstractions.dll
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Share.dll
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.dll
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.Extensions.dll
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.Primitives.dll
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Core.dll
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Maps.dll
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Platform.dll
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Xaml.dll
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/FFImageLoading.pdb
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/FFImageLoading.xml
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/FFImageLoading.Forms.pdb
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/FFImageLoading.Forms.xml
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/FFImageLoading.Platform.xml
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Newtonsoft.Json.xml
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Geolocator.pdb
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Geolocator.xml
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Geolocator.Abstractions.pdb
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Media.pdb
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Media.xml
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Media.Abstractions.pdb
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Media.Abstractions.xml
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Messaging.pdb
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Messaging.xml
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Messaging.Abstractions.pdb
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Messaging.Abstractions.xml
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Share.pdb
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Share.xml
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Share.Abstractions.pdb
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Share.Abstractions.xml
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.xml
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.Extensions.xml
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.Primitives.xml
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Core.pdb
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Core.xml
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Maps.xml
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Platform.pdb
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Xaml.pdb
+D:/New/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Xaml.xml
+D:/New/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.csproj.App.config
+D:/New/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.csprojResolveAssemblyReference.cache
+D:/New/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.MainPage.xaml.g.cs
+D:/New/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.App.xaml.g.cs
+D:/New/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.HomeEnterprise.xaml.g.cs
+D:/New/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.RegisterJobSeeker.xaml.g.cs
+D:/New/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.RegisterEnterprise.xaml.g.cs
+D:/New/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.CreateJob.xaml.g.cs
+D:/New/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.HomeJobSeeker.xaml.g.cs
+D:/New/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.ViewSubmission.xaml.g.cs
+D:/New/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.ViewApplyJob.xaml.g.cs
+D:/New/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.HomeAdmin.xaml.g.cs
+D:/New/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.HomeAdmin2.xaml.g.cs
+D:/New/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.dll
+D:/New/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.pdb
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/TemPloy.dll.config
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/TemPloy.dll
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/TemPloy.pdb
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/CarouselView.FormsPlugin.Abstractions.dll
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/FFImageLoading.dll
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/FFImageLoading.Forms.dll
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/FFImageLoading.Platform.dll
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Newtonsoft.Json.dll
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Geolocator.Abstractions.dll
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Geolocator.dll
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Media.Abstractions.dll
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Media.dll
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Messaging.Abstractions.dll
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Messaging.dll
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Share.Abstractions.dll
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Share.dll
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.dll
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.Extensions.dll
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.Primitives.dll
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Core.dll
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Maps.dll
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/FFImageLoading.pdb
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/FFImageLoading.xml
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/FFImageLoading.Forms.pdb
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/FFImageLoading.Forms.xml
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/FFImageLoading.Platform.xml
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Newtonsoft.Json.xml
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Geolocator.pdb
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Geolocator.xml
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Geolocator.Abstractions.pdb
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Media.pdb
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Media.xml
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Media.Abstractions.pdb
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Media.Abstractions.xml
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Messaging.pdb
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Messaging.xml
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Messaging.Abstractions.pdb
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Messaging.Abstractions.xml
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Share.pdb
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Share.xml
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Share.Abstractions.pdb
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Plugin.Share.Abstractions.xml
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.xml
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.Extensions.xml
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/System.Net.Http.Primitives.xml
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Core.xml
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Maps.xml
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Platform.pdb
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Platform.dll.mdb
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.csproj.App.config
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.csproj.CoreCompileInputs.cache
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.MainPage.xaml.g.cs
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.App.xaml.g.cs
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.HomeEnterprise.xaml.g.cs
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.RegisterJobSeeker.xaml.g.cs
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.RegisterEnterprise.xaml.g.cs
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.CreateJob.xaml.g.cs
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.HomeJobSeeker.xaml.g.cs
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.ViewSubmission.xaml.g.cs
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.ViewApplyJob.xaml.g.cs
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.HomeAdmin.xaml.g.cs
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.Views.HomeAdmin2.xaml.g.cs
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.dll
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.pdb
+/Users/tp033532/Desktop/TemPloy/TemPloy/TemPloy/obj/Debug/TemPloy.csprojResolveAssemblyReference.cache
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\TemPloy.dll.config
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\TemPloy.dll
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\TemPloy.pdb
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\CarouselView.FormsPlugin.Abstractions.dll
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\FFImageLoading.dll
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\FFImageLoading.Forms.dll
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\FFImageLoading.Platform.dll
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Newtonsoft.Json.dll
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Plugin.Geolocator.Abstractions.dll
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Plugin.Geolocator.dll
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Plugin.Media.Abstractions.dll
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Plugin.Media.dll
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Plugin.Messaging.Abstractions.dll
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Plugin.Messaging.dll
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Plugin.Share.Abstractions.dll
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Plugin.Share.dll
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\System.Net.Http.dll
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\System.Net.Http.Extensions.dll
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\System.Net.Http.Primitives.dll
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Xamarin.Forms.Core.dll
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Xamarin.Forms.Maps.dll
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Xamarin.Forms.Platform.dll
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\FFImageLoading.pdb
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\FFImageLoading.xml
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\FFImageLoading.Forms.pdb
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\FFImageLoading.Forms.xml
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\FFImageLoading.Platform.xml
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Newtonsoft.Json.xml
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Plugin.Geolocator.pdb
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Plugin.Geolocator.xml
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Plugin.Media.pdb
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Plugin.Media.xml
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Plugin.Media.Abstractions.pdb
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Plugin.Media.Abstractions.xml
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Plugin.Messaging.pdb
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Plugin.Messaging.xml
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Plugin.Messaging.Abstractions.pdb
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Plugin.Messaging.Abstractions.xml
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Plugin.Share.pdb
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Plugin.Share.xml
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Plugin.Share.Abstractions.pdb
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Plugin.Share.Abstractions.xml
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\System.Net.Http.xml
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\System.Net.Http.Extensions.xml
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\System.Net.Http.Primitives.xml
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Xamarin.Forms.Core.pdb
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Xamarin.Forms.Core.xml
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Xamarin.Forms.Maps.xml
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\obj\Debug\TemPloy.csproj.App.config
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\obj\Debug\TemPloy.csprojResolveAssemblyReference.cache
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\obj\Debug\TemPloy.MainPage.xaml.g.cs
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\obj\Debug\TemPloy.App.xaml.g.cs
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\obj\Debug\TemPloy.Views.HomeEnterprise.xaml.g.cs
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\obj\Debug\TemPloy.Views.RegisterJobSeeker.xaml.g.cs
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\obj\Debug\TemPloy.Views.RegisterEnterprise.xaml.g.cs
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\obj\Debug\TemPloy.Views.CreateJob.xaml.g.cs
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\obj\Debug\TemPloy.Views.HomeJobSeeker.xaml.g.cs
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\obj\Debug\TemPloy.Views.ViewSubmission.xaml.g.cs
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\obj\Debug\TemPloy.Views.ViewApplyJob.xaml.g.cs
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\obj\Debug\TemPloy.Views.HomeAdmin.xaml.g.cs
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\obj\Debug\TemPloy.Views.HomeAdmin2.xaml.g.cs
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\obj\Debug\TemPloy.dll
+D:\TestingIOS2\TemPloy\TemPloy\TemPloy\obj\Debug\TemPloy.pdb
